@@ -75,5 +75,14 @@
         "1.94.32.79"
       ]
     }
+  },
+  "z.json": {
+    "owner": {
+      "email": "qubit0755@gmail.com",
+      "username": "mrfox"
+    },
+    "record": {
+      "CNAME": "mrfox.is-best.net"
+    }
   }
 }
